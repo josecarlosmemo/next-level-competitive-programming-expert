@@ -1,0 +1,12 @@
+.cph
+*.bin
+.DS_Store
+README-JCMN.md
+# Unsolved problems
+kilo_waste.cpp
+array_of_hope.cpp
+its_just_a_binary.cpp
+bmail_computer_network.cpp
+party.cpp
+cyclic_components.cpp
+random_events.cpp
